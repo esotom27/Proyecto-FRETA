@@ -1,1 +1,0 @@
-Esta carpeta se centra en Python y opencv para la deteccion de movimiento
